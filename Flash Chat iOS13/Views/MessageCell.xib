@@ -73,8 +73,8 @@
         </tableViewCell>
     </objects>
     <resources>
-        <image name="MeAvatar" width="36" height="36"/>
-        <image name="YouAvatar" width="36" height="36"/>
+        <image name="MeAvatar" width="640" height="426.5"/>
+        <image name="YouAvatar" width="640" height="426.5"/>
         <namedColor name="BrandDarkGrey">
             <color red="0.23100000619888306" green="0.2669999897480011" blue="0.29399999976158142" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </namedColor>
